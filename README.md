@@ -1,2 +1,3 @@
 # hello-world
-Something new
+
+Just getting through this activity
